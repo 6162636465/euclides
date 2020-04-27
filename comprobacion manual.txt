@@ -1,0 +1,146 @@
+algoritmo 1 con los numeros :412 y 260
+r= 152
+a= 260
+b= 152
+
+r= 108
+a= 152
+b= 108
+
+r= 44
+a= 108
+b= 44
+
+r= 20
+a= 44
+b= 20
+
+r= 4
+a= 20
+b= 4
+
+r= 0
+MCD= 4
+algoritmo 2 con los numeros :412 y 260
+r= 152
+r= 108
+a= 260
+b= 108
+
+r= 44
+a= 108
+b= 44
+
+r= 20
+a= 44
+b= 20
+
+r= 4
+a= 20
+b= 4
+
+r= 0
+MCD= 4
+algoritmo 3 con los numeros :412 y 260
+MCD(260, 152)
+ MCD(152, 108)
+MCD(108, 44)
+MCD(44, 20)
+MCD(20, 4)
+ MCD(4, 0)
+MCD= 4
+algoritmo 4 con los numeros :412 y 260
+MCD 2*(206, 130)
+MCD 2*(103, 65)
+MCD(19, 65)
+MCD(65, 19)
+MCD(23, 19)
+MCD(2, 19)
+MCD(19, 2)
+MCD(19, 1)
+MCD(9, 1)
+MCD(4, 1)
+MCD(2, 1)
+MCD(1, 1)
+MCD(0, 1)
+MCD(1, 0)
+MCD= 4
+
+algoritmo 5 con los numeros :412 y 260
+Ambos son pares
+x= 206
+y= 130
+g= 2
+Ambos son pares
+x= 103
+y= 65
+g= 4
+t= (x-y)/2= 19
+x= 19
+t= (x-y)/2= 23
+y= 19
+t= (x-y)/2= 2
+y= 19
+y es par
+y= 19
+t= (x-y)/2= 9
+x= 9
+t= (x-y)/2= 4
+x= 4
+x es par
+x= 2
+x es par
+x= 1
+t= (x-y)/2= 0
+x= 0
+MCD= 4
+algoritmo 6 con los numeros :412 y 260
+a= 412, b= 260
+a= 152
+a= 152, b= 260
+b= 108
+a= 152, b= 108
+a= 44
+a= 44, b= 108
+b= 64
+a= 44, b= 64
+b= 20
+a= 44, b= 20
+a= 24
+a= 24, b= 20
+a= 4
+a= 4, b= 20
+b= 16
+a= 4, b= 16
+b= 12
+a= 4, b= 12
+b= 8
+a= 4, b= 8
+b= 4
+MCD= 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
